@@ -1,4 +1,4 @@
-# registration-system
+# task
 import java.util.*;
 
 class Course {
